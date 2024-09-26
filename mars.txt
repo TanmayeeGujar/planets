@@ -4,3 +4,5 @@ But the Mummy will appreciate the lack of humidity
 Did I add a different line in my copy?
 I don't know what I did wrong but seems like I got my steps mixed up. I have not encounter a "conflict" yet
 I hope I encounter a conflict this time. only this time, I don't like conflicts in general
+Gokul is adding some lines to create a merge conflict. He is very evil!
+No worries. Gokul is chill. I resolved the conflict (hopefully).
